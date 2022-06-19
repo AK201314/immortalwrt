@@ -10,7 +10,6 @@
  *   Copyright (C) 2014-2016 Sean Wang <sean.wang@mediatek.com>
  *   Copyright (C) 2016-2017 John Crispin <blogic@openwrt.org>
  */
-
 #include <linux/dma-mapping.h>
 #include <linux/delay.h>
 #include <linux/if.h>
